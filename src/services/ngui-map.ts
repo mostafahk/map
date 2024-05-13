@@ -7,7 +7,7 @@ import { GeoCoder } from './geo-coder';
  */
 @Injectable()
 export class NguiMap {
-
+ 
   constructor(
     private geoCoder: GeoCoder,
     private optionBuilder: OptionBuilder,

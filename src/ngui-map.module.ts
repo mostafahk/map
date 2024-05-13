@@ -14,7 +14,7 @@ import { CustomMarker } from './components/custom-marker';
 import { BicyclingLayer } from './directives/bicycling-layer';
 import { Circle } from './directives/circle';
 import { DataLayer } from './directives/data-layer';
-import { DirectionsRenderer } from './directives/directions-renderer';
+import { DirectionsRenderer } from './directives/directions-renderer'; 
 import { DrawingManager } from './directives/drawing-manager';
 import { GroundOverlay } from './directives/ground-overlay';
 import { HeatmapLayer } from './directives/heatmap-layer';

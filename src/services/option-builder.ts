@@ -41,7 +41,7 @@ export class OptionBuilder {
       }
     } // for(var key in attrs)
     return options;
-  }
+  } 
 
   googlize(input: any, options?: IJson): any {
     options = options || {};

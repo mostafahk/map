@@ -5,7 +5,7 @@ import { IJson } from './util';
 /**
  *  service for navigator.geolocation methods
  */
-@Injectable()
+@Injectable() 
 export class NavigatorGeolocation {
 
   getCurrentPosition(geoLocationOptions?: IJson): Observable<any> {
